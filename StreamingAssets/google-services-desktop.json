@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "960045546862",
+    "project_id": "fir-test-73922",
+    "storage_bucket": "fir-test-73922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960045546862:android:4ed0874c04f732d2af557f",
+        "android_client_info": {
+          "package_name": "com.HEX.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960045546862-dvs34m7tefft3ee4t989gcc2qjlor1n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4EInrGv9UGhl3t02KdyWKghaRc4HCBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960045546862-dvs34m7tefft3ee4t989gcc2qjlor1n1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960045546862-bnfc0pkretuvlpp9jqkjpk1f1gimincg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HEX.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
